@@ -1,0 +1,1609 @@
+# BUILD A PREMIUM COMPLETE EDUCATION PLATFORM — INFOCUS ACADEMY
+
+Design a complete, premium, modern, professional, responsive educational website and online learning platform for INFOCUS ACADEMY, located in Kalkaji, New Delhi, India.
+
+This is NOT just a coaching institute website.
+
+This is a complete education platform combining:
+
+1. Premium Course-Selling Website
+2. Online Course Marketplace
+3. Student Registration and Login
+4. Student Dashboard
+5. Online Learning Classroom
+6. Video Lectures
+7. Study Materials and Notes
+8. MCQ Practice
+9. Online Tests and Mock Tests
+10. Student Progress Tracking
+11. Course Enrollment
+12. Payment and Checkout Experience
+13. Teacher Dashboard
+14. Admin Dashboard
+15. Course and Student Management
+
+The platform should allow students to discover courses, understand their learning options, enrol in courses, access educational content, practice questions, take tests, track their progress, and continue their preparation directly inside the INFOCUS ACADEMY website.
+
+The design should feel like a premium EdTech startup combined with a trusted academic coaching institute.
+
+The platform must be visually exceptional, highly organized, easy to use, mobile-friendly, and designed for real students.
+
+==================================================
+01. BRAND IDENTITY
+==================================================
+
+Brand Name:
+
+INFOCUS ACADEMY
+
+Main Tagline:
+
+"Learn Better. Understand Deeper. Achieve More."
+
+Secondary Tagline:
+
+"Your Concepts. Your Confidence. Your Future."
+
+Brand Personality:
+
+Premium
+Academic
+Modern
+Professional
+Trustworthy
+Student-Friendly
+Approachable
+Focused
+Knowledgeable
+Motivational
+
+Brand Colors:
+
+Primary Navy: #10233F
+Deep Navy: #091526
+White: #FFFFFF
+Soft Background: #F5F7FA
+Muted Gold: #D6AF62
+Light Blue: #EAF2FB
+Slate Gray: #64748B
+Success Green: #16A34A
+
+Use navy blue and white as the main colors.
+
+Use muted gold for premium accents, highlights, important statistics, and selected CTA elements.
+
+Use soft blue backgrounds for learning sections and light neutral backgrounds for dashboard cards.
+
+Avoid excessive gradients, excessive gold, bright childish colors, overcrowded designs, and generic templates.
+
+Typography:
+
+Use modern fonts such as Inter, Manrope, or Plus Jakarta Sans.
+
+Use bold, powerful headlines.
+
+Use highly readable body text.
+
+Maintain excellent visual hierarchy.
+
+==================================================
+02. DESIGN DIRECTION
+==================================================
+
+Create a complete cohesive UI/UX design system.
+
+The website should look like a premium product comparable in design quality to leading education technology platforms.
+
+The design must include:
+
+- Premium homepage
+- Course marketplace
+- Individual course pages
+- Course checkout pages
+- Student authentication
+- Student dashboard
+- Video learning interface
+- Notes and resources
+- Online practice
+- Test-taking interface
+- Results dashboard
+- Progress tracking
+- Teacher dashboard
+- Admin management dashboard
+
+Design both desktop and mobile versions.
+
+The interface should be clean, beautiful, intuitive, and highly functional.
+
+Use:
+
+- Modern cards
+- Rounded corners
+- Consistent spacing
+- Premium iconography
+- Soft shadows
+- Elegant typography
+- Clean navigation
+- Beautiful course thumbnails
+- Interactive elements
+- Smooth transitions
+- High-quality educational imagery
+- Proper visual hierarchy
+
+Do not make every section look like the same repetitive card grid.
+
+Create variety in layouts while maintaining brand consistency.
+
+==================================================
+03. PUBLIC WEBSITE — NAVIGATION
+==================================================
+
+Create a responsive premium header.
+
+Left:
+
+INFOCUS ACADEMY logo.
+
+Logo concept:
+
+Create a unique symbol using a focus lens, academic book, target circle, or abstract learning symbol.
+
+Navigation:
+
+Home
+Courses
+Class 11
+Class 12
+NEET
+JEE
+CUET
+About JDR Sir
+Contact
+
+Right:
+
+Login
+Join / Enquire
+
+Use a sticky header.
+
+Desktop navigation should be elegant and spacious.
+
+Mobile navigation should use a smooth hamburger menu.
+
+Make login and course enquiry easy to access.
+
+==================================================
+04. HOMEPAGE HERO SECTION
+==================================================
+
+Create a premium, visually stunning hero section.
+
+Headline:
+
+"Learn with Focus.
+Prepare with Confidence."
+
+Alternative headline:
+
+"Your Academic Goals.
+Your Learning Journey.
+Your Future."
+
+Description:
+
+"Discover concept-based learning, structured academic preparation, and student-focused guidance designed to help you understand better, practice consistently, and move towards your academic goals."
+
+Highlight:
+
+Classes 9–12
+Biology
+Chemistry
+NEET
+JEE
+CUET
+
+Primary CTA:
+
+"Explore Courses"
+
+Secondary CTA:
+
+"Start Your Learning Journey"
+
+Include a beautiful hero visual featuring:
+
+- A student studying
+- Science learning
+- Books and educational elements
+- A premium academic atmosphere
+- Subtle scientific visual elements
+- A modern classroom or digital learning visual
+
+Add floating feature labels:
+
+Concept-Based Learning
+Personal Attention
+Structured Preparation
+Smart Learning
+
+The hero must feel premium, inspiring, and focused on students.
+
+==================================================
+05. TRUST AND ACADEMY OVERVIEW
+==================================================
+
+Create a premium trust section beneath the hero.
+
+Display confirmed academy information:
+
+Established: 2015
+
+Teaching Experience: 10+ Years
+
+Main Faculty: Jaidev Roy (JDR Sir)
+
+Academic Qualifications:
+
+B.Sc. — University of Delhi
+M.Sc. — University of Delhi
+
+Subjects:
+
+Biology
+Chemistry
+
+Use elegant statistics and credential visuals.
+
+Do not fabricate student enrollment numbers, success rates, results, ranks, awards, or testimonials.
+
+==================================================
+06. COURSE MARKETPLACE
+==================================================
+
+Create a complete course discovery marketplace.
+
+Heading:
+
+"Explore Courses. Find Your Focus."
+
+Subheading:
+
+"Choose the right academic program for your class, subjects, and competitive examination goals."
+
+Course category filters:
+
+All Courses
+Class 9
+Class 10
+Class 11
+Class 12
+NEET
+JEE
+CUET
+
+Create beautiful, premium course cards.
+
+Every course card must include:
+
+Course thumbnail
+Course title
+Class or examination
+Subjects
+Short description
+Course highlights
+Learning category
+Faculty information when verified
+Course access type
+Price placeholder if not confirmed
+View Course button
+Enquire button
+
+Design a premium course browsing experience with filters, category navigation, and responsive layouts.
+
+==================================================
+07. COURSE 1 — CLASS 11 BIOLOGY & CHEMISTRY
+==================================================
+
+Title:
+
+Class 11 Science Program
+
+Subtitle:
+
+"Build Strong Foundations for Advanced Science Learning."
+
+Subjects:
+
+Biology
+Chemistry
+
+Description:
+
+"Build a strong foundation in science through concept-based learning, clear explanations, detailed topic understanding, and guided academic preparation."
+
+Features:
+
+- Biology concept learning
+- Chemistry fundamentals
+- Detailed topic explanations
+- Concept clarity
+- Academic practice
+- Doubt-clearing support
+- Revision support
+- Preparation guidance
+
+CTA:
+
+View Course
+Enquire About Admission
+
+==================================================
+08. COURSE 2 — CLASS 12 BIOLOGY & CHEMISTRY
+==================================================
+
+Title:
+
+Class 12 Science Program
+
+Subtitle:
+
+"Strengthen Your Concepts. Prepare with Confidence."
+
+Description:
+
+"Prepare for Class 12 with structured academic learning, detailed explanations, important topic revision, practice, and board examination preparation guidance."
+
+Features:
+
+- Biology
+- Chemistry
+- Concept-based teaching
+- Topic-wise learning
+- Academic revision
+- Regular assessment support
+- Doubt-solving guidance
+
+CTA:
+
+View Course
+Enquire About Admission
+
+==================================================
+09. COURSE 3 — NEET PREPARATION
+==================================================
+
+Title:
+
+NEET Preparation Program
+
+Subtitle:
+
+"Build Your Medical Entrance Preparation on Strong Concepts."
+
+Description:
+
+"Strengthen your understanding of Biology and Chemistry through structured learning, concept-based explanations, topic-wise preparation, and practice support."
+
+Features:
+
+- Biology learning
+- Chemistry learning
+- Concept understanding
+- MCQ practice
+- Topic-wise revision
+- Doubt-solving support
+- Academic preparation guidance
+- Test practice
+
+Create a dedicated premium NEET course page.
+
+Include:
+
+Course overview
+Subjects
+Learning structure
+Course modules
+Practice section
+Test section
+Faculty information where confirmed
+Course enquiry
+Enrolment CTA
+
+Do not promise guaranteed NEET selection, scores, or ranks.
+
+==================================================
+10. COURSE 4 — JEE PREPARATION
+==================================================
+
+Title:
+
+JEE Foundation & Preparation
+
+Subtitle:
+
+"Develop Strong Concepts and Problem-Solving Confidence."
+
+Description:
+
+"Explore structured preparation and foundational academic learning designed to strengthen concepts, develop problem-solving skills, and support engineering entrance preparation."
+
+Features:
+
+- Conceptual foundations
+- Academic learning
+- Problem-solving development
+- Structured practice
+- Revision support
+- Learning guidance
+
+Create a dedicated JEE course detail page.
+
+Do not invent subject-specific faculty assignments.
+
+==================================================
+11. COURSE 5 — CUET PREPARATION
+==================================================
+
+Title:
+
+CUET Preparation Program
+
+Subtitle:
+
+"Prepare for Your Next Academic Milestone."
+
+Description:
+
+"Develop subject understanding, strengthen important concepts, and prepare through focused academic learning, practice, and revision."
+
+Features:
+
+- Subject-focused learning
+- Academic practice
+- Concept revision
+- Structured preparation
+- Guidance
+
+Create a dedicated CUET course page.
+
+==================================================
+12. COURSE 6 — CLASSES 9 & 10 FOUNDATION
+==================================================
+
+Title:
+
+School Foundation Program
+
+Classes:
+
+Class 9
+Class 10
+
+Subjects:
+
+Mathematics
+Science
+
+Description:
+
+"Build strong school-level fundamentals through concept-based learning, easy explanations, practice, academic support, and structured revision."
+
+Features:
+
+- Mathematics
+- Science
+- Fundamental concepts
+- Guided practice
+- Doubt-clearing support
+- Academic revision
+- School examination preparation
+
+==================================================
+13. INDIVIDUAL COURSE DETAIL PAGES
+==================================================
+
+Every course must have its own detailed course page.
+
+The page must contain:
+
+- Course title
+- Course image
+- Course description
+- Who this course is for
+- Subjects covered
+- Course curriculum
+- Learning objectives
+- Course modules
+- Faculty details where confirmed
+- Learning features
+- Practice resources
+- Revision support
+- Frequently asked questions
+- Course fee display when configured
+- Enrollment CTA
+- Enquiry CTA
+- WhatsApp CTA
+
+Create an attractive sticky course information panel on desktop.
+
+On mobile, create a bottom sticky CTA bar:
+
+"Enquire About Course"
+
+Keep course information well organized and easy to understand.
+
+==================================================
+14. COURSE CURRICULUM SYSTEM
+==================================================
+
+Design a complete curriculum interface.
+
+Example:
+
+CLASS 11 BIOLOGY
+
+Module 01
+The Living World
+
+Lessons:
+- Introduction to Biology
+- Characteristics of Living Organisms
+- Biodiversity
+- Taxonomy
+- Revision
+
+Module 02
+Biological Classification
+
+Lessons:
+- Classification Overview
+- Kingdoms of Life
+- Key Characteristics
+- Concept Review
+
+Module 03
+Plant Kingdom
+
+Lessons:
+- Plant Classification
+- Major Plant Groups
+- Characteristics
+- Practice Questions
+
+Each module must have:
+
+Module title
+Chapter description
+Lesson list
+Video lesson placeholder
+Notes
+Practice questions
+Completion indicator
+
+Design an expandable chapter accordion.
+
+Students should be able to open a chapter, view lessons, and understand which lessons are completed.
+
+Curriculum must be manageable from the admin dashboard.
+
+Do not falsely show these example chapters as academy-uploaded lectures or officially confirmed course content. Treat them as sample curriculum structure until the academy adds the actual material.
+
+==================================================
+15. AUTHENTICATION SYSTEM — STUDENT
+==================================================
+
+Design premium login and registration pages.
+
+Student registration:
+
+Full Name
+Phone Number
+Email Address
+Password
+Confirm Password
+
+Login:
+
+Phone or Email
+Password
+
+Additional UI:
+
+Forgot Password
+OTP Verification
+Reset Password
+Remember Me
+Logout
+
+Design authentication pages that feel secure, modern, and simple.
+
+Include clear validation states.
+
+Never expose passwords.
+
+==================================================
+16. STUDENT DASHBOARD
+==================================================
+
+Create a complete student dashboard after login.
+
+Layout:
+
+Sidebar navigation on desktop.
+
+Mobile-friendly navigation.
+
+Dashboard heading:
+
+"Welcome Back, [Student Name]"
+
+Subtitle:
+
+"Continue learning and stay focused on your goals."
+
+Dashboard sections:
+
+1. My Courses
+2. Continue Learning
+3. Recently Viewed Lessons
+4. Upcoming Tests
+5. Study Materials
+6. My Progress
+7. Saved Lessons
+8. Doubt Support
+9. Notifications
+10. My Profile
+
+Show course progress using progress bars.
+
+Show completed lessons.
+
+Show remaining modules.
+
+Show upcoming practice tests.
+
+Use a premium dashboard layout with:
+
+- Course cards
+- Progress indicators
+- Activity summaries
+- Quick access buttons
+- Recent learning activity
+- Study reminders
+
+Do not use fake student data as real information. Use clearly marked demo data in prototype previews.
+
+==================================================
+17. ONLINE CLASSROOM / VIDEO PLAYER
+==================================================
+
+Create a professional online learning interface.
+
+Layout:
+
+Main area:
+
+Video lesson player.
+
+Right sidebar:
+
+Course curriculum.
+
+Top:
+
+Course name
+Module name
+Lesson name
+
+Below the video:
+
+Lesson description
+Notes
+Resources
+Questions
+Mark as Completed
+
+Sidebar curriculum:
+
+Expandable modules
+Lessons
+Completed indicators
+Locked lesson states
+Current lesson state
+
+Player features visually represented:
+
+Play/Pause
+Playback progress
+Volume
+Full screen
+Playback speed
+Video quality where supported
+Subtitle control where available
+
+Below the lesson:
+
+Previous Lesson
+Next Lesson
+Mark Lesson Complete
+
+Design the classroom for distraction-free learning.
+
+On mobile, curriculum should be available in a collapsible drawer or bottom panel.
+
+==================================================
+18. STUDY MATERIALS & NOTES
+==================================================
+
+Create a complete study resources section.
+
+Resource categories:
+
+Class Notes
+PDF Notes
+Chapter Summary
+Practice Worksheets
+Important Questions
+Revision Notes
+Formula Sheets
+Study Resources
+
+Each resource card:
+
+Resource title
+Course
+Chapter
+File type
+Date added
+Download / Open button
+
+Create a search and filter interface.
+
+Allow students to organize resources by:
+
+Course
+Subject
+Chapter
+Resource type
+
+Only enrolled students should access restricted materials.
+
+==================================================
+19. ONLINE PRACTICE SYSTEM
+==================================================
+
+Create a dedicated practice dashboard.
+
+Categories:
+
+Chapter-wise MCQs
+Topic Practice
+Quick Quiz
+Practice Sets
+Revision Questions
+Mock Tests
+
+Practice screen:
+
+Question
+Question number
+Multiple-choice options
+Submit Answer
+Next Question
+Previous Question
+Mark for Review
+Progress indicator
+
+Results screen:
+
+Questions Attempted
+Correct Answers
+Incorrect Answers
+Unattempted
+Score
+Accuracy
+
+Show explanations after the student submits an answer, where explanations are available.
+
+Create a clean, student-friendly practice experience.
+
+==================================================
+20. ONLINE TEST & MOCK TEST SYSTEM
+==================================================
+
+Create a premium examination interface.
+
+Test dashboard:
+
+Available Tests
+Upcoming Tests
+Completed Tests
+Practice Tests
+
+Test card:
+
+Test title
+Course
+Subject
+Duration when configured
+Number of questions when configured
+Test status
+Start Test button
+
+Test interface:
+
+Question navigation
+Question palette
+Timer
+Question and answer area
+Next
+Previous
+Save Answer
+Mark for Review
+Submit Test
+
+Submission confirmation dialog.
+
+Test results:
+
+Score
+Accuracy
+Correct Answers
+Incorrect Answers
+Unanswered
+Subject-wise performance where available
+Question review
+Correct answer
+Explanation
+
+IMPORTANT:
+
+Do not invent actual test duration, scoring rules, or test content.
+
+All test parameters must be configurable by the academy.
+
+==================================================
+21. STUDENT PROGRESS & PERFORMANCE
+==================================================
+
+Create a complete progress dashboard.
+
+Show:
+
+Overall Course Progress
+Completed Lessons
+Pending Lessons
+Completed Chapters
+Test History
+Practice Activity
+Accuracy
+Revision Status
+Learning Activity
+
+Visualizations:
+
+Progress bars
+Simple graphs
+Weekly learning activity
+Course completion chart
+Subject-wise performance where data exists
+
+Add a section:
+
+"Your Learning Journey"
+
+Show completed milestones.
+
+Add:
+
+"Continue Learning"
+
+"Revise Weak Topics"
+
+"Practice Again"
+
+Keep the design motivating without making students feel discouraged.
+
+Do not use misleading performance comparisons or fabricate results.
+
+==================================================
+22. DOUBT-CLEARING SYSTEM
+==================================================
+
+Create a student doubt-support interface.
+
+Students should be able to submit:
+
+Course
+Subject
+Chapter
+Question
+Text description
+Optional attachment placeholder
+
+Display:
+
+My Doubts
+Pending
+Answered
+Resolved
+
+Each doubt should have a status.
+
+Design a clean discussion or response interface.
+
+Do not pretend AI or faculty responses exist unless a backend is configured.
+
+==================================================
+23. STUDENT PROFILE
+==================================================
+
+Create a student profile page.
+
+Information:
+
+Name
+Email
+Phone
+Enrolled Courses
+Account Details
+Learning Preferences
+
+Actions:
+
+Edit Profile
+Change Password
+Manage Courses
+Notifications
+Logout
+
+Keep the profile clean and secure.
+
+==================================================
+24. TEACHER DASHBOARD
+==================================================
+
+Create a separate teacher/faculty dashboard.
+
+Teacher sidebar:
+
+Dashboard
+My Courses
+Manage Chapters
+Video Lessons
+Study Materials
+Practice Questions
+Tests
+Student Doubts
+Student Progress
+Profile
+
+Teacher dashboard features:
+
+- Create course modules
+- Add chapters
+- Add lessons
+- Upload lecture videos
+- Upload PDF notes
+- Add practice questions
+- Create quizzes
+- Create tests
+- View enrolled students
+- Review student progress
+- Respond to doubts
+
+Create beautiful content-management forms.
+
+Use upload components with clear file information.
+
+Teacher access should be role-based.
+
+==================================================
+25. ADMIN DASHBOARD
+==================================================
+
+Create a premium academy administration dashboard.
+
+Admin sidebar:
+
+Overview
+Courses
+Course Categories
+Students
+Teachers
+Enrollments
+Payments
+Study Materials
+Video Lectures
+Tests
+Practice Questions
+Doubt Management
+Announcements
+Website Content
+Settings
+
+Dashboard overview:
+
+Total Students
+Total Courses
+Active Enrollments
+New Enquiries
+Recent Registrations
+Course Activity
+
+These must be placeholder metrics in the design prototype until connected to actual data.
+
+Admin course management:
+
+Create Course
+Edit Course
+Delete Course
+Publish Course
+Unpublish Course
+
+Course fields:
+
+Course Name
+Course Category
+Class
+Subjects
+Description
+Course Thumbnail
+Course Price
+Discount Price if configured
+Course Curriculum
+Course Faculty
+Course Duration if confirmed
+Course Access Settings
+Course Visibility
+
+Student management:
+
+Student List
+Student Profile
+Course Enrollments
+Enrollment Status
+Account Status
+
+Payment management:
+
+Payment History
+Transaction Status
+Course Purchases
+Payment Records
+
+Content management:
+
+Video Upload
+Notes Upload
+PDF Upload
+Question Bank
+Test Management
+
+==================================================
+26. COURSE ENROLLMENT FLOW
+==================================================
+
+Design a complete enrollment experience.
+
+Student journey:
+
+Step 1 — Browse Courses
+
+Step 2 — Select Course
+
+Step 3 — View Course Details
+
+Step 4 — Click Enroll Now
+
+Step 5 — Login or Create Account
+
+Step 6 — Review Enrollment
+
+Step 7 — Payment or Admission Confirmation
+
+Step 8 — Course Appears in Student Dashboard
+
+Create premium enrollment screens.
+
+Display:
+
+Selected Course
+Course Summary
+Student Information
+Fee Information when configured
+Payment Status
+Confirmation
+
+Do not invent prices.
+
+==================================================
+27. PAYMENT & CHECKOUT
+==================================================
+
+Create a premium checkout interface.
+
+Checkout fields:
+
+Student Name
+Email
+Phone
+Selected Course
+
+Display:
+
+Course Name
+Price
+Discount if configured
+Final Amount
+Payment Method
+
+Payment methods should be configurable.
+
+Design payment status:
+
+Pending
+Successful
+Failed
+
+Include:
+
+Payment Confirmation
+Receipt
+Order Summary
+
+IMPORTANT:
+
+The design should be prepared for future integration with a secure payment provider such as Razorpay.
+
+Do not store card details directly.
+
+Do not show fake payment success.
+
+==================================================
+28. COURSE ACCESS & SECURITY
+==================================================
+
+Design access-controlled educational content.
+
+States:
+
+Free Preview
+Enrolled
+Locked
+Completed
+
+Students should see:
+
+- Free lessons where configured
+- Locked lessons
+- Enrolled course content
+- Course progress
+
+Locked content should display:
+
+"Enroll in this course to unlock complete learning access."
+
+CTA:
+
+"Explore Enrollment"
+
+Paid videos, notes, tests, and restricted content should not be publicly accessible.
+
+The actual implementation must use backend access verification and secure authorization.
+
+==================================================
+29. NOTIFICATIONS
+==================================================
+
+Create a notification center.
+
+Notification types:
+
+New Course
+New Lesson
+Upcoming Test
+Study Material Added
+Test Result
+Doubt Answered
+Course Announcement
+
+Design:
+
+Notification list
+Unread state
+Read state
+Notification details
+
+==================================================
+30. ABOUT FACULTY — JAIDEV ROY
+==================================================
+
+Faculty:
+
+Jaidev Roy
+
+Known as:
+
+JDR Sir
+
+Qualifications:
+
+B.Sc. — Delhi University
+M.Sc. — Delhi University
+
+Experience:
+
+10+ Years Teaching Experience
+
+Teaching:
+
+Classes 11 and 12
+
+Subjects:
+
+Biology
+Chemistry
+
+Description:
+
+"Jaidev Roy, known as JDR Sir, focuses on helping students understand complex topics through simple explanations, concept-based teaching, practical examples, patience, and individual attention.
+
+His approach encourages students to ask questions, build confidence, strengthen their fundamentals, and develop a better understanding of science."
+
+Create a premium faculty profile.
+
+Include a large portrait placeholder.
+
+Do not fabricate achievements, student results, awards, or qualifications.
+
+==================================================
+31. WHY INFOCUS ACADEMY?
+==================================================
+
+Create a premium section highlighting:
+
+Concept-Based Learning
+Smart Board Teaching
+Personal Attention
+Student-Friendly Faculty
+Regular Unit Tests
+Doubt-Clearing Support
+Structured Revision
+Academic Guidance
+
+Heading:
+
+"Focused Learning. Stronger Understanding."
+
+Description:
+
+"At INFOCUS ACADEMY, learning is about understanding concepts clearly, developing academic confidence, and building a strong foundation for the future."
+
+==================================================
+32. FAQ SYSTEM
+==================================================
+
+Create separate FAQ sections for:
+
+Public Course Website:
+
+Which courses are available?
+Which subjects are taught?
+How do I enquire?
+How can I join?
+
+Student Portal:
+
+How do I log in?
+How can I access my courses?
+Where are the notes?
+How do I take a test?
+How is my progress saved?
+How can I ask a doubt?
+
+Enrollment:
+
+How can I enroll?
+How can I make payment?
+How can I access a purchased course?
+What happens after enrollment?
+
+Use an elegant accordion UI.
+
+==================================================
+33. CONTACT & WHATSAPP
+==================================================
+
+Academy Name:
+
+INFOCUS ACADEMY
+
+Address:
+
+B-20, J-3 Market,
+DDA Flats, Kalkaji,
+New Delhi – 110019, India.
+
+Phone Numbers:
+
+8851008500
+8802196760
+
+Design:
+
+Contact card
+Call buttons
+WhatsApp button
+Google Maps placeholder
+Get Directions
+Admission Enquiry
+
+Add a floating WhatsApp button across the public website.
+
+Create contextual WhatsApp messages based on the selected course.
+
+==================================================
+34. MOBILE EXPERIENCE
+==================================================
+
+The mobile experience is extremely important.
+
+Design mobile screens for:
+
+Homepage
+Course Listing
+Course Details
+Student Login
+Student Dashboard
+Video Classroom
+Practice Questions
+Test Interface
+Test Results
+Study Materials
+Profile
+Teacher Dashboard
+Admin Dashboard
+
+Requirements:
+
+No horizontal overflow
+Easy touch navigation
+Readable typography
+Mobile course cards
+Bottom navigation where appropriate
+Collapsible sidebars
+Easy video controls
+Mobile-friendly tests
+Simple forms
+Floating WhatsApp CTA
+Responsive layouts
+
+The mobile learning experience should feel like an educational app.
+
+==================================================
+35. INTERACTION DESIGN
+==================================================
+
+Design the following interactions:
+
+Sticky navigation
+Course filtering
+Course search
+Course category tabs
+Course detail navigation
+Login modal or login page
+Signup page
+Password recovery
+Course enrollment
+Payment checkout
+Accordion FAQs
+Video player
+Expandable curriculum
+Lesson completion
+Practice questions
+Test navigation
+Test submission
+Progress indicators
+Notifications
+Doubt submission
+Admin content upload
+Mobile menu
+Floating contact button
+
+Use subtle, polished animations.
+
+Avoid excessive movement and distracting effects.
+
+==================================================
+36. SEO STRUCTURE
+==================================================
+
+Prepare the public website for SEO.
+
+Course pages should support search-friendly page structures for:
+
+Class 11 Coaching in Kalkaji
+Class 12 Coaching in Kalkaji
+Biology Coaching in Kalkaji
+Chemistry Coaching in Kalkaji
+NEET Preparation in Kalkaji
+JEE Coaching in Kalkaji
+CUET Preparation in Kalkaji
+Class 9 Science Coaching
+Class 10 Mathematics and Science Coaching
+
+Create proper heading hierarchies.
+
+Use descriptive page titles and meta description placeholders.
+
+Do not keyword-stuff.
+
+==================================================
+37. WEBSITE PAGES TO DESIGN
+==================================================
+
+Create the complete multi-page design system.
+
+PUBLIC WEBSITE:
+
+1. Home Page
+2. All Courses Page
+3. Class 9 Course Page
+4. Class 10 Course Page
+5. Class 11 Course Page
+6. Class 12 Course Page
+7. NEET Course Page
+8. JEE Course Page
+9. CUET Course Page
+10. About Faculty Page
+11. Contact Page
+12. Login Page
+13. Signup Page
+14. Course Checkout Page
+15. Enrollment Confirmation Page
+
+STUDENT PLATFORM:
+
+16. Student Dashboard
+17. My Courses
+18. Course Learning Page
+19. Video Classroom
+20. Curriculum Page
+21. Study Materials
+22. Practice Dashboard
+23. Quiz Interface
+24. Test Interface
+25. Test Results
+26. Progress Dashboard
+27. Doubt Support
+28. Notifications
+29. Student Profile
+
+FACULTY PLATFORM:
+
+30. Teacher Dashboard
+31. Course Management
+32. Lesson Management
+33. Study Material Upload
+34. Test Creation
+35. Student Progress
+
+ADMIN PLATFORM:
+
+36. Admin Dashboard
+37. Course Management
+38. Student Management
+39. Faculty Management
+40. Enrollment Management
+41. Payment Management
+42. Content Management
+43. Question Bank
+44. Test Management
+45. Website Settings
+
+==================================================
+38. DESIGN THE ENTIRE PLATFORM AS ONE PRODUCT
+==================================================
+
+All screens must feel like one cohesive educational platform.
+
+Public website:
+Premium, inspiring, conversion-focused.
+
+Student dashboard:
+Clean, motivating, focused on learning.
+
+Classroom:
+Distraction-free and academic.
+
+Tests:
+Focused and easy to use.
+
+Teacher dashboard:
+Functional and content-management focused.
+
+Admin dashboard:
+Professional and data-management focused.
+
+Use the same brand identity, design system, typography, color palette, button styles, spacing, icons, and visual language across all sections.
+
+==================================================
+39. FINAL QUALITY REQUIREMENTS
+==================================================
+
+The design must be:
+
+Premium
+Professional
+Modern
+Beautiful
+Student-Friendly
+Mobile-First
+Responsive
+Easy to Navigate
+Course-Focused
+Learning-Focused
+Admission-Focused
+
+Do not create a basic template.
+
+Do not make the student portal look like a simple website page.
+
+Design the student learning experience as a real LMS platform.
+
+Do not invent real student accounts, actual uploaded lectures, real results, actual course prices, payment success, or confirmed student statistics.
+
+Use realistic placeholders only where actual academy information is not available.
+
+==================================================
+40. FINAL OBJECTIVE
+==================================================
+
+Create INFOCUS ACADEMY as a complete premium digital education ecosystem.
+
+The student should be able to:
+
+Discover INFOCUS ACADEMY
+Explore Courses
+Choose Class 11 or Class 12
+Explore NEET
+Explore JEE
+Explore CUET
+Understand course benefits
+View faculty information
+Create an account
+Enroll in a course
+Access their student dashboard
+Watch lessons
+Read study materials
+Practice questions
+Take tests
+Review test results
+Track progress
+Ask academic doubts
+Continue learning
+
+The academy should be able to:
+
+Manage courses
+Manage students
+Upload videos
+Upload study materials
+Create quizzes
+Create tests
+Manage enrollments
+Manage payments
+Track student learning
+Manage the platform
+
+FINAL DESIGN DIRECTION:
+
+Build a visually exceptional, premium, modern, complete educational website and learning platform for INFOCUS ACADEMY.
+
+Make it feel like a premium EdTech product that students would genuinely want to use every day.
+
+Prioritize beautiful design, clarity, smooth navigation, real educational functionality in the planned product architecture, and an outstanding student experience.
+
+The final result must be cohesive, polished, visually impressive, and ready to move into the development phase.

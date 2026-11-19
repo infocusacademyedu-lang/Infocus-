@@ -1,0 +1,6 @@
+{
+  "name": "INFOCUS ACADEMY — Education & Learning Platform",
+  "description": "Complete education website and online learning platform for INFOCUS ACADEMY, Kalkaji, New Delhi. Concept-based learning for Classes 9–12, Biology, Chemistry, NEET, JEE, and CUET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
