@@ -27,23 +27,21 @@ export const FacultyPage: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
         <div className="bg-white border border-slate-200 rounded-2xl overflow-hidden grid grid-cols-1 lg:grid-cols-12">
           {/* Large Portrait Placeholder */}
-          <div className="lg:col-span-5 bg-[#EAF2FB] border-b lg:border-b-0 lg:border-r border-slate-200 text-[#10233F] p-10 flex flex-col justify-between min-h-[400px]">
-            <div className="flex items-center justify-between text-xs text-slate-600">
-              <span className="font-semibold text-[#10233F]">Main Faculty</span>
-              <span className="font-medium">Portrait Placeholder</span>
+          <div className="lg:col-span-5 bg-[#091526] text-white p-10 flex flex-col justify-between min-h-[400px]">
+            <div className="flex items-center justify-between text-xs text-slate-300">
+              <span>Main Faculty</span>
+              <span className="text-[#D6AF62] font-medium">Portrait Placeholder</span>
             </div>
 
             <div className="my-10 flex flex-col items-center text-center">
-              <div className="w-36 h-36 rounded-full border-2 border-[#D6AF62] bg-[#10233F] flex items-center justify-center font-display text-4xl font-extrabold text-[#D6AF62] shadow-sm">
+              <div className="w-36 h-36 rounded-full border-2 border-[#D6AF62] bg-[#10233F] flex items-center justify-center font-display text-4xl font-extrabold text-[#D6AF62]">
                 JDR
               </div>
-              <h2 className="font-display text-2xl font-bold mt-5 text-[#10233F]">
-                {FACULTY_PROFILE.name}
-              </h2>
-              <p className="text-sm text-[#64748B] font-semibold mt-1">{FACULTY_PROFILE.alias}</p>
+              <h2 className="font-display text-2xl font-bold mt-5">{FACULTY_PROFILE.name}</h2>
+              <p className="text-sm text-[#D6AF62] mt-1">{FACULTY_PROFILE.alias}</p>
             </div>
 
-            <div className="border-t border-slate-200 pt-4 space-y-1 text-xs text-slate-700 text-center">
+            <div className="border-t border-white/15 pt-4 space-y-1 text-xs text-slate-300">
               {FACULTY_PROFILE.qualifications.map((q) => (
                 <p key={q}>{q}</p>
               ))}
