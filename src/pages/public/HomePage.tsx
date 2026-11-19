@@ -151,14 +151,14 @@ export const HomePage: React.FC = () => {
             </div>
 
             <div className="lg:col-span-6">
-              <div className="relative rounded-2xl overflow-hidden border border-slate-200 bg-[#091526] aspect-[16/10]">
+              <div className="relative rounded-2xl overflow-hidden border border-slate-200 bg-slate-100 aspect-[16/10]">
                 <SafeImage
                   src={IMG_HERO}
                   alt="Student studying Biology and Chemistry at INFOCUS ACADEMY"
                   className="w-full h-full object-cover"
                   fallbackTitle="INFOCUS ACADEMY — Concept-Based Science Learning"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#091526]/85 via-[#091526]/20 to-transparent" />
+                <div className="absolute inset-0 bg-gradient-to-t from-[#091526]/65 via-transparent to-transparent" />
 
                 {/* Clean floating academic focus labels */}
                 <div className="absolute bottom-4 left-4 right-4 grid grid-cols-2 gap-2.5">
@@ -399,27 +399,27 @@ export const HomePage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-white border border-slate-200 rounded-2xl overflow-hidden grid grid-cols-1 lg:grid-cols-12">
             {/* Large Dignified Portrait Placeholder */}
-            <div className="lg:col-span-5 bg-[#10233F] text-white p-8 sm:p-10 flex flex-col justify-between min-h-[320px]">
-              <div className="space-y-2">
-                <p className="text-xs font-semibold uppercase tracking-wider text-[#D6AF62]">
+            <div className="lg:col-span-5 bg-[#F5F7FA] border-b lg:border-b-0 lg:border-r border-slate-200 text-[#10233F] p-8 sm:p-10 flex flex-col justify-between min-h-[320px]">
+              <div className="flex items-center justify-between">
+                <p className="text-xs font-semibold uppercase tracking-wider text-[#10233F]">
                   Faculty Profile
                 </p>
-                <p className="text-xs text-slate-300">Portrait Placeholder</p>
+                <p className="text-xs text-slate-500">Portrait Placeholder</p>
               </div>
 
               <div className="my-8 flex flex-col items-center justify-center text-center">
-                <div className="w-28 h-28 rounded-full border-2 border-[#D6AF62] bg-[#091526] flex items-center justify-center font-display text-3xl font-extrabold text-[#D6AF62]">
+                <div className="w-28 h-28 rounded-full border-2 border-[#D6AF62] bg-[#10233F] flex items-center justify-center font-display text-3xl font-extrabold text-[#D6AF62] shadow-sm">
                   JDR
                 </div>
-                <p className="mt-4 font-display text-xl font-bold">
+                <p className="mt-4 font-display text-xl font-bold text-[#10233F]">
                   {FACULTY_PROFILE.name}
                 </p>
-                <p className="text-sm text-[#D6AF62] font-medium">
+                <p className="text-sm text-[#64748B] font-medium">
                   Known as {FACULTY_PROFILE.alias}
                 </p>
               </div>
 
-              <div className="border-t border-white/15 pt-4 text-xs text-slate-300 flex flex-wrap gap-x-4 gap-y-1">
+              <div className="border-t border-slate-200 pt-4 text-xs text-slate-600 flex flex-wrap gap-x-3 gap-y-1 justify-center">
                 <span>B.Sc. — University of Delhi</span>
                 <span>·</span>
                 <span>M.Sc. — University of Delhi</span>
@@ -580,30 +580,30 @@ export const HomePage: React.FC = () => {
           </div>
 
           <div className="lg:col-span-5">
-            <div className="bg-[#10233F] text-white rounded-2xl p-8 space-y-6">
+            <div className="bg-white border border-slate-200 text-[#10233F] rounded-2xl p-8 space-y-6">
               <div className="space-y-2">
                 <p className="text-xs font-semibold uppercase tracking-wider text-[#D6AF62]">
                   Visit or Contact Us
                 </p>
-                <h3 className="font-display text-2xl font-bold">
+                <h3 className="font-display text-2xl font-bold text-[#10233F]">
                   INFOCUS ACADEMY — Kalkaji
                 </h3>
-                <p className="text-sm text-slate-300">
+                <p className="text-sm text-slate-600">
                   Connect directly for batch schedules, course details, or academic counselling.
                 </p>
               </div>
 
-              <div className="space-y-4 text-sm border-t border-white/15 pt-5">
+              <div className="space-y-4 text-sm border-t border-slate-200 pt-5">
                 <div className="flex items-start gap-3">
-                  <MapPin className="w-5 h-5 text-[#D6AF62] shrink-0 mt-0.5" />
-                  <span>{settings.address}</span>
+                  <MapPin className="w-5 h-5 text-[#10233F] shrink-0 mt-0.5" />
+                  <span className="text-slate-700">{settings.address}</span>
                 </div>
                 <div className="space-y-2">
                   {settings.phones.map((ph) => (
                     <a
                       key={ph}
                       href={`tel:+91${ph}`}
-                      className="flex items-center gap-3 text-white hover:text-[#D6AF62] font-mono-tabular"
+                      className="flex items-center gap-3 text-[#10233F] font-semibold hover:text-[#D6AF62] font-mono-tabular"
                     >
                       <Phone className="w-4 h-4 text-[#D6AF62] shrink-0" />
                       <span>+91 {ph}</span>
@@ -616,7 +616,7 @@ export const HomePage: React.FC = () => {
                 <button
                   type="button"
                   onClick={() => openEnquiryModal()}
-                  className="py-3 px-4 rounded-lg bg-[#D6AF62] text-[#091526] text-sm font-bold hover:bg-[#c59d52] cursor-pointer"
+                  className="py-3 px-4 rounded-lg bg-[#10233F] text-white text-sm font-bold hover:bg-[#091526] cursor-pointer"
                 >
                   Admission Enquiry
                 </button>
@@ -636,7 +636,7 @@ export const HomePage: React.FC = () => {
               <button
                 type="button"
                 onClick={() => navigate('/contact')}
-                className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-lg border border-white/25 text-xs font-medium text-slate-200 hover:bg-white/10 cursor-pointer"
+                className="w-full inline-flex items-center justify-center gap-2 py-2.5 px-4 rounded-lg border border-slate-300 text-xs font-semibold text-[#10233F] hover:bg-slate-50 cursor-pointer"
               >
                 <Compass className="w-4 h-4 text-[#D6AF62]" />
                 View Centre Map &amp; Directions
